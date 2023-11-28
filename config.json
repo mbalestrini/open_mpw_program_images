@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "classic",
   "css": "./custom.css",
   "footer": "Copyright Text",
   "usage-stats": false
